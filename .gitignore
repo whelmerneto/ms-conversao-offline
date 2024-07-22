@@ -1,0 +1,8 @@
+.env
+.env*
+./vendor
+./vendor/*
+vendor/
+google_ads_php.ini
+configmap.template.yaml
+GCP.json
